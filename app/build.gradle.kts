@@ -34,6 +34,11 @@ android {
     kotlinOptions {
         jvmTarget = "1.8"
     }
+
+    //dependencies for view binding
+    buildFeatures {
+        viewBinding = true
+    }
 }
 
 dependencies {
@@ -45,4 +50,12 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.test.ext.junit)
     androidTestImplementation(libs.espresso.core)
+
+
+    //glide for image loading
+
+    implementation ("com.github.bumptech.glide:glide:4.16.0")
+   annotationProcessor ("com.github.bumptech.glide:compiler:4.11.0")
+
+
 }

@@ -7,4 +7,20 @@
     <string name="world_of_music">World of Music</string>
     <string name="song_name">Song Name</string>
     <string name="back_btn">back</string>
+    <string name="start_tv">00.00</string>
+    <string name="end_tv">loading..</string>
+    <string name="repeat_btn">Repeat</string>
+    <string name="equalizer_icon">Equalizer</string>
+    <string name="timer_icon">Timer</string>
+    <string name="share_icon">Share</string>
+    <string name="playlist">Playlist</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="app_icon">Icon</string>
+    <string name="nav_header_text">Welcome to \nWorld of Music</string>
+    <string name="nav_menu_feedback">Feedback</string>
+    <string name="nav_menu_setting">Setting</string>
+    <string name="nav_menu_about">About</string>
+    <string name="nav_menu_exit">Exit</string>
+    <string name="song_albam">Song Albam</string>
 </resources>
